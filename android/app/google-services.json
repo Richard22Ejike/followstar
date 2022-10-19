@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209660721211",
+    "project_id": "techbridge-454eb",
+    "storage_bucket": "techbridge-454eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209660721211:android:5223c55681f0c8e6d9441e",
+        "android_client_info": {
+          "package_name": "com.richard.techbridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209660721211-aek98guif818mjlokpj5rimp07g54ou8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7gt7mrTqLYsGa0idR96s2i1PjsPKRve4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209660721211-aek98guif818mjlokpj5rimp07g54ou8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
